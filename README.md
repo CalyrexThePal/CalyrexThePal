@@ -1,5 +1,5 @@
 # Xuanyi (Shawn) Wu
-- Hi there! Care to listen some stories and have a few cups (of hot cocoa)?
+  ...Hi there! Care to listen some stories and have a few cups (of hot cocoa)?
 
 ## About me
 - 🔭 A passionate physics student ...
