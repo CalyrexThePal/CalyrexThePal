@@ -9,23 +9,11 @@
 - 🔦 Working in an AMO physics lab ...
 
 ## Familiar Tools 🔧
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-  </a>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Wolfram_Language_Logo_2019.svg" alt="Mathematica" width="40" height="40"/>
-  </a>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
 
 ## Some niche stuff I happen to know a little bit
 - RP2040 PIO Assembly
