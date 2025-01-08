@@ -1,4 +1,4 @@
-# Xuanyi (Shawn) Wu
+# Xuanyi Wu (Xuan works)
   ...Hi there! Care to listen some stories and have a few cups (of hot cocoa)?
 
 ## About me
